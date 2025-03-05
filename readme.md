@@ -74,4 +74,4 @@ This project demonstrates the application of deep learning and statistical metho
 
 ## Contributors
 - [Rishabh Patil](https://github.com/rish59p)
-- [Anwesha Gopireddy](https://github.com/collaborator-profile)
+- [Anwesha Gopireddy](https://github.com/AnweshaG-29)
